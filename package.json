@@ -9,5 +9,9 @@
     "express": "3.4.8",
     "jade": "*",
     "stylus": "*"
+  },
+  "engines": {
+    "node": "0.11.x",
+    "npm": "1.3.x"
   }
 }
